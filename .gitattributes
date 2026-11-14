@@ -1,0 +1,5 @@
+*.cs text
+*.md text
+*.json text
+*.asmdef text
+*.meta text
